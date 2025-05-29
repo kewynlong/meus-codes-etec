@@ -1,0 +1,64 @@
+body {
+    background-color: lightblue;
+    font-family: Arial, "comic sans ms", sans-serif;
+}
+.h1 {
+    color: blue;
+    text-align: center;
+}
+    
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.h1-2 {
+    text-align: center;
+    font-family: "comic sans ms";
+    background-color: rgb(105, 200, 231);
+}
+.content {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: stretch;
+    background-color: rgb(116, 190, 214);
+    box-shadow: black 0px 0px 10px;
+    border-radius: 10px;
+    width: auto;
+    padding: 20px;
+}
+.h1-3 {
+    text-align: center;
+    font: "comic sans ms";
+    background-color: rgb(105, 200, 231);
+    box-shadow: black;
+}
+.download-btn {
+    background-color: #1e90ff;
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 12px 28px;
+    font-size: 1.1em;
+    cursor: pointer;
+    margin-top: 15px;
+    transition: background 0.2s;
+}
+.download-btn:hover {
+    background-color: #1565c0;
+}
+
+.aviso {
+    margin-top: 18px;
+    color: #b22222;
+    background: #fff3cd;
+    border: 1px solid #ffeeba;
+    border-radius: 6px;
+    padding: 10px;
+    font-size: 1em;
+    text-align: center;
+}
+.div3 {
+    text-align: center;
+}
